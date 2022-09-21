@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r0ckYr
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning web app hacking
+- 👀 I’m interested in development & hacking
+- 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on bug bounty
 - 📫 How to reach me twitter/r0ckYrp
 
