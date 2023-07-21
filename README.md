@@ -1,5 +1,3 @@
-GitHub Bio:
-
 👋 Hi there! I'm Rakshit Rautela, a passionate B.Tech student specializing in Computer Science. I love exploring Linux, Java, Python, HTML/CSS, Javascript, and SQL. My goal is to develop innovative solutions and contribute to the advancement of Computer Science through continuous learning and creativity.
 
 🎓 Studying at Graphic Era Hill University, Dehradun, India.
