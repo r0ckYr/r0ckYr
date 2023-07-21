@@ -15,10 +15,8 @@ Bug Bounty Participant - Web Application Pentesting
 IoT Malware Analysis Researcher - Cybersecurity and IoT Security
 
 
-
 📫 Let's connect! Find me on LinkedIn: linkedin.com/in/rakshitrautela7
 
-GitHub: github.com/r0ckYr
 
 Feel free to reach out, and let's build something amazing together! 🚀
 
