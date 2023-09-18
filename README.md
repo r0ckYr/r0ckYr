@@ -1,21 +1,21 @@
 <div style="display: flex; justify-content: center; align-items: center;" >
-  <img src="https://github.com/NIXBLACK11/NIXBLACK11/blob/main/messagif(1).gif" alt="Intro" width=55% height="400px"/>
-  <img src="https://github.com/NIXBLACK11/NIXBLACK11/blob/main/clipart1185030.png" alt="Photo" width=35% height="400px"/>
+  <img src="https://github.com/r0ckYr/r0ckYr/blob/main/messagif(1).gif" alt="Intro" width=55% height="400px"/>
+  <img src="https://github.com/r0ckYr/r0ckYr/blob/main/clipart1185030.png" alt="Photo" width=35% height="400px"/>
 </div>
 
 
 
 
-<h1 align="center">Hi 👋, I'm Siddharth Singh Rana</h1>
+<h1 align="center">Hi 👋, I'm Rakshit Rautela</h1>
 <h3 align="center">I am a second-year Btech student at Graphic Era Hill University, Dehradun.<br> Apart from that I am a Freelancer, and I love learning new languages.<br>Interested in cyber security.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nixblack11&label=Profile%20views&color=0e75b6&style=flat" alt="nixblack11" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r0ckYr&label=Profile%20views&color=0e75b6&style=flat" alt="r0ckYr" /> </p>
 
 - 🔭 I’m currently working on **Code Chat (A chat app enabled with voice and video calls to message and code).**
 
 - 👯 I’m looking to collaborate on **Anything related to web development and deep learning.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NIXBLACK11](https://github.com/NIXBLACK11)
+- 👨‍💻 All of my projects are available at [https://github.com/r0ckYr](https://github.com/r0ckYr)
 
 - 📫 This is my personal portfolio [Siddharth's Portfolio](https://siddharth-dev-portfolio.netlify.app/)
 
@@ -31,10 +31,10 @@
 
 
 <div style="display: flex; flex-direction: column;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIXBLACK11&layout=donut-vertical" alt="Top Langs" style="width: 50%; max-width: 400px; padding: 0; margin: 0;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0ckYr&layout=donut-vertical" alt="Top Langs" style="width: 50%; max-width: 400px; padding: 0; margin: 0;" />
   <div style="display: flex; flex-direction: row; width: 50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=NIXBLACK11&show_icons=true" alt="Nixblack's GitHub stats" style="width: 50%; max-width: 400px; padding: 0; margin: 0;" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nixblack11" alt="nixblack11" style="width: 50%; max-width: 400px; padding: 0; margin: 0;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=r0ckYr&show_icons=true" alt="Nixblack's GitHub stats" style="width: 50%; max-width: 400px; padding: 0; margin: 0;" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r0ckYr" alt="r0ckYr" style="width: 50%; max-width: 400px; padding: 0; margin: 0;" />
   </div>
 </div>
 
